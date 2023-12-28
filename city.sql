@@ -188,4 +188,4 @@ INSERT INTO City (city_name, state_id) VALUES
 ('Batu Arang', 12),
 ('Tanjung Sepat', 12),
 ('Kuang', 12),
-('Kuala Kubu Baharu', 12
+('Kuala Kubu Baharu', 12)
