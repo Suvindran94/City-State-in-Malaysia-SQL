@@ -30,5 +30,3 @@ To set up the database, execute the provided SQL scripts in the following order:
 3. Create the `City` table with a foreign key reference to the `State` table.
 4. Insert data into the `City` table.
 
-```sql
--- Your SQL statements here
